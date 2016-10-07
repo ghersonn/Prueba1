@@ -3,5 +3,5 @@ public class Hola {
 	public int edad;
 	
 	
-	public int edad3;
+	public int edad5;
 }
