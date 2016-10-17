@@ -9,5 +9,5 @@ public class Hola {
 	
 	public int edad3;
 	public int publicadoAndree;
-	public int publicadoAndree2;
+	public int publicadoTays;
 }
