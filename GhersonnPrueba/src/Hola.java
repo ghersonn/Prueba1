@@ -10,4 +10,5 @@ public class Hola {
 	public int edad3;
 	public int publicadoAndree;
 	public int publicadoTaysAndree;
+	public int publicadoooooooooo;
 }
